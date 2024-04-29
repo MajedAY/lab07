@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#header {
+    color: initial; 
+    text-align: center;
+}
+
+#colorForm {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#colorInput {
+    padding: 5px;
+    font-size: 16px;
+}
+
+button {
+    padding: 5px 15px;
+    font-size: 16px;
+    cursor: pointer;
+}
